@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1686880180 source:c:\users\moises\desktop\programacion\ejercicios del libro fundamento piensa en c\ejercicios cap #7\#7.8\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
