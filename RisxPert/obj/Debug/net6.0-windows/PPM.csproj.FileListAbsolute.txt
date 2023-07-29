@@ -1,0 +1,27 @@
+C:\Users\Moises\Documents\_Programación PM Pichardo\New folder\bin\Debug\net6.0-windows\PPM.exe
+C:\Users\Moises\Documents\_Programación PM Pichardo\New folder\bin\Debug\net6.0-windows\PPM.deps.json
+C:\Users\Moises\Documents\_Programación PM Pichardo\New folder\bin\Debug\net6.0-windows\PPM.runtimeconfig.json
+C:\Users\Moises\Documents\_Programación PM Pichardo\New folder\bin\Debug\net6.0-windows\PPM.dll
+C:\Users\Moises\Documents\_Programación PM Pichardo\New folder\bin\Debug\net6.0-windows\PPM.pdb
+C:\Users\Moises\Documents\_Programación PM Pichardo\New folder\obj\Debug\net6.0-windows\PPM.csproj.AssemblyReference.cache
+C:\Users\Moises\Documents\_Programación PM Pichardo\New folder\obj\Debug\net6.0-windows\PPM.Form1.resources
+C:\Users\Moises\Documents\_Programación PM Pichardo\New folder\obj\Debug\net6.0-windows\PPM.csproj.GenerateResource.cache
+C:\Users\Moises\Documents\_Programación PM Pichardo\New folder\obj\Debug\net6.0-windows\PPM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moises\Documents\_Programación PM Pichardo\New folder\obj\Debug\net6.0-windows\PPM.AssemblyInfoInputs.cache
+C:\Users\Moises\Documents\_Programación PM Pichardo\New folder\obj\Debug\net6.0-windows\PPM.AssemblyInfo.cs
+C:\Users\Moises\Documents\_Programación PM Pichardo\New folder\obj\Debug\net6.0-windows\PPM.csproj.CoreCompileInputs.cache
+C:\Users\Moises\Documents\_Programación PM Pichardo\New folder\obj\Debug\net6.0-windows\PPM.dll
+C:\Users\Moises\Documents\_Programación PM Pichardo\New folder\obj\Debug\net6.0-windows\refint\PPM.dll
+C:\Users\Moises\Documents\_Programación PM Pichardo\New folder\obj\Debug\net6.0-windows\PPM.pdb
+C:\Users\Moises\Documents\_Programación PM Pichardo\New folder\obj\Debug\net6.0-windows\PPM.genruntimeconfig.cache
+C:\Users\Moises\Documents\_Programación PM Pichardo\New folder\obj\Debug\net6.0-windows\ref\PPM.dll
+C:\Users\Moises\Documents\_Programación PM Pichardo\Riskpert\obj\Debug\net6.0-windows\PPM.csproj.AssemblyReference.cache
+C:\Users\Moises\Documents\_Programación PM Pichardo\Riskpert\obj\Debug\net6.0-windows\PPM.Form1.resources
+C:\Users\Moises\Documents\_Programación PM Pichardo\Riskpert\obj\Debug\net6.0-windows\PPM.csproj.GenerateResource.cache
+C:\Users\Moises\Documents\_Programación PM Pichardo\Riskpert\obj\Debug\net6.0-windows\PPM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moises\Documents\_Programación PM Pichardo\Riskpert\obj\Debug\net6.0-windows\PPM.AssemblyInfoInputs.cache
+C:\Users\Moises\Documents\_Programación PM Pichardo\Riskpert\obj\Debug\net6.0-windows\PPM.AssemblyInfo.cs
+C:\Users\Moises\Documents\_Programación PM Pichardo\Riskpert\obj\Debug\net6.0-windows\PPM.csproj.CoreCompileInputs.cache
+C:\Users\Moises\Documents\_Programación PM Pichardo\Riskpert\obj\Debug\net6.0-windows\PPM.dll
+C:\Users\Moises\Documents\_Programación PM Pichardo\Riskpert\obj\Debug\net6.0-windows\refint\PPM.dll
+C:\Users\Moises\Documents\_Programación PM Pichardo\Riskpert\obj\Debug\net6.0-windows\PPM.pdb

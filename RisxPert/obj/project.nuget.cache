@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "l4gMcmsS4xDfVM7MY6NoE2kGrCMX8qAseFblFoLBq7igsJWN7ldITTPCxULOMH4U0ZSRHFPZSxH9PPMzz726rQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Moises\\source\\repos\\PPM\\PPM\\PPM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moises\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Moises\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Moises\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Moises\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
